@@ -14,7 +14,6 @@ Visual Language Models (VLMs) have achieved remarkable progress, yet their relia
 ---
 
 ## 🔧 Code Availability
-This repository currently contains the abstract, teaser, and project overview.  
 **Coming Soon**
 
 ---
