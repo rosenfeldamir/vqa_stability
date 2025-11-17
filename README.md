@@ -26,7 +26,7 @@ Visual Language Models (VLMs) have achieved remarkable progress, yet their relia
 **Coming Soon**
 
 ---
-
+<a id="bibtex"></a>
 ## 📚 BibTeX  
 (Will be updated upon publication.)  
 ```bibtex
