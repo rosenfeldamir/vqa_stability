@@ -2,7 +2,7 @@
 <p align="center">
     <strong>Authors:</strong> Amir Rosenfeld, Neta Glazer, Ethan Fetaya  
     <br>
-    <a href="https://arxiv.org/abs/XXXX.XXXXX">📄 Paper</a> |
+    <a href="https://arxiv.org/abs/2511.11206">📄 Paper</a> |
     <!-- <a href="https://your-project-page.com">🌐 Project Page</a> | -->
     <a href="#bibtex">📚 BibTeX</a>
 </p>
