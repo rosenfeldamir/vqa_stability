@@ -30,9 +30,12 @@ Visual Language Models (VLMs) have achieved remarkable progress, yet their relia
 ## 📚 BibTeX  
 (Will be updated upon publication.)  
 ```bibtex
-@article{your2025robustvlm,
-  title={Questioning the Stability of Visual Question Answering},
-  author={Amir Rosenfeld and Neta Glazer and Ethan Fetaya},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2025}
+@misc{rosenfeld2025questioningstabilityvisualquestion,
+      title={Questioning the Stability of Visual Question Answering}, 
+      author={Amir Rosenfeld and Neta Glazer and Ethan Fetaya},
+      year={2025},
+      eprint={2511.11206},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2511.11206}, 
 }
